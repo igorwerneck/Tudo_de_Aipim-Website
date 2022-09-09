@@ -1,0 +1,35 @@
+.main
+{background-color: #ffefd7;
+text-align: center;
+font-family: 'Montserrat';
+color: #483213}
+
+.menuhorizontal ul
+{list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #ffefd7;}
+
+.menuhorizontal li
+{display: inline;
+font-family: 'Anaktoria';
+font-size: 35px;
+word-spacing: 4px;
+color: #835e4f;}
+
+.menuhorizontal li a
+{display: inline;
+color: #835e4f;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;}
+
+.menuhorizontal li a:hover
+{background-color: #483213;}
+
+.logo img
+{display: grid;
+margin-left: auto;
+margin-right: auto;
+width: 20%;}
