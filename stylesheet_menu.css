@@ -1,0 +1,236 @@
+*{
+    background-color: #ffefd7;
+}
+
+.link{
+    color: #835e4f;
+}
+
+.link:hover{
+    color: #483213;
+}
+
+nav{
+    text-align: justify;
+}
+
+.menuhorizontal ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 200px;
+    overflow: hidden;
+    background-color: #ffefd7;
+}
+
+.menuhorizontal li{
+    display: inline;
+    font-family: 'Anaktoria';
+    font-size: 50px;
+    word-spacing: 3px;
+    color: #835e4f;
+}
+
+.menuhorizontal li a{
+    display: inline;
+    color: #835e4f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuhorizontal li a:hover{
+    background-color: #483213;
+}
+
+.logo img{
+    display: grid;
+    float: left;
+    width: 22%;
+    padding-left: 120px;
+}
+
+section#corpo{
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Produtos foto geral*/
+.produtos h2{
+    font-family: 'Anaktoria';
+    text-align: center;
+    font-size: 45px;
+    color: #835e4f;
+    text-transform: uppercase;
+}
+
+.produtos p{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 20px;
+    color: #483213;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.produtos img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-content: center;
+    border: 2px solid #483213;
+    box-shadow: 10px 10px 5px #835e4f;
+
+}
+
+.produtos figcaption{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 15px;
+    color: #483213;
+}
+
+/*Menu Aipim*/
+.menuaipim{
+    font-family: 'Anaktoria';
+    text-align: center;
+    font-size: 30px;
+    color: #835e4f;
+    text-transform: uppercase;
+}
+
+/*Produto 1*/
+.produto1 h2{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 30px;
+    color:#483213;
+}
+
+.produto1 img{
+    float: left;
+    width: 15%;
+    margin-left: 180px;
+    margin-right: 25px;
+    border: 2px solid #483213;
+    box-shadow: 10px 10px 5px #835e4f;
+}
+
+.produto1 p{
+    font-family: 'Montserrat';
+    text-align: justify;
+    font-size: 20px;
+    color: #483213;
+    margin-left: 25px;
+    margin-right: 310px;
+    line-height: 1.5;
+}
+
+/*Produto 2*/
+.produto2 h2{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 30px;
+    color:#483213;
+}
+
+.produto2 img{
+    float: left;
+    width: 15%;
+    margin-left: 180px;
+    margin-right: 25px;
+    border: 2px solid #483213;
+    box-shadow: 10px 10px 5px #835e4f;
+}
+
+.produto2 p{
+    font-family: 'Montserrat';
+    text-align: justify;
+    font-size: 20px;
+    color: #483213;
+    padding-left: 25px;
+    padding-right: 300px;
+    line-height: 1.5;
+}
+
+/*Produto 3*/
+.produto3 h2{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 30px;
+    color:#483213;
+}
+
+.produto3 img{
+    float: left;
+    width: 15%;
+    margin-left: 180px;
+    margin-right: 25px;
+    border: 2px solid #483213;
+    box-shadow: 10px 10px 5px #835e4f;
+}
+
+.produto3 p{
+    font-family: 'Montserrat';
+    text-align: justify;
+    font-size: 20px;
+    color: #483213;
+    padding-left: 25px;
+    padding-right: 300px;
+    line-height: 1.5;
+}
+
+/*Menu Nossa Terra*/
+.menuderivados{
+        font-family: 'Anaktoria';
+        text-align: center;
+        font-size: 30px;
+        color: #835e4f;
+        text-transform: uppercase;
+}
+
+/*Produto derivado 1*/
+.derivado1 h2{
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 30px;
+    color:#483213;
+}
+
+.derivado1 img{
+    float: left;
+    width: 15%;
+    margin-left: 180px;
+    margin-right: 25px;
+    border: 2px solid #483213;
+    box-shadow: 10px 10px 5px #835e4f;
+    margin-bottom: 50px;
+}
+
+.derivado1 p{
+    font-family: 'Montserrat';
+    text-align: justify;
+    font-size: 20px;
+    color: #483213;
+    padding-left: 25px;
+    padding-right: 300px;
+    line-height: 1.5;
+}
+
+/*Rodapé*/
+footer#rodape{
+    clear: both;
+    position: relative;
+    font-family: 'Anaktoria';
+    font-size: 20px;
+    text-align: center;
+    color: #483213;
+    width: 100%;
+    padding: 10px;
+    bottom: 0;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #483213;
+}
