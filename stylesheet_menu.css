@@ -63,7 +63,6 @@ section#corpo{
     font-size: 45px;
     color: #835e4f;
     text-transform: uppercase;
-    line-height: 1.5;
 }
 
 .produtos p{
@@ -73,6 +72,7 @@ section#corpo{
     color: #483213;
     padding-left: 300px;
     padding-right: 300px;
+    line-height: 1.5;
 }
 
 .produtos img{
